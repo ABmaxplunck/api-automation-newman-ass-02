@@ -38,7 +38,8 @@ d-money is a demo financial related project where fake money can be transferred.
 - will be updated soon
   
 ## Issue Report
-- will be updated soon
+- https://shorturl.at/prsRV
+  
 
 
 ## Newman Test Report
